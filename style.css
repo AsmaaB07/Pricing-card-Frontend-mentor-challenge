@@ -129,3 +129,17 @@ ul {
   opacity: 0.8;
   line-height: 1.2;
 }
+
+@media (max-width: 650px) {
+  #bottom-left-section, #bottom-right-section {
+    width: 100%;
+  
+  }
+    
+  #container {
+    height: auto;
+    width: 100%;
+  
+  } 
+}
+
